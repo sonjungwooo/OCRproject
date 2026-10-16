@@ -1,6 +1,6 @@
-# OCR과 LLM을 활용한 손코딩 이미지의 텍스트 포멧 변환 프로젝트
+# Snap, Convert, Run: Automated Code Digitization via Clova OCR & GPT-4
 
->Snap, Convert, Run: Automated Code Digitization via Clova OCR & GPT-4
+>OCR Project: Made with Clova OCR & OpenAI
 >>Paper2Code
 
 ## Introduction
