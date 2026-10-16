@@ -43,3 +43,11 @@
  Through this research, I explored various technologies and combined them to build a functional solution to a real-world problem. By learning how to work with OCR and LLMs, I strengthened my ability to leverage IT technologies to solve practical challenges. Furthermore, I learned the importance of the "Divide and Conquer" approach when tackling complex problems—breaking a massive challenge down into smaller, manageable units and seamlessly integrating them into a final solution.
 
 
+``` 
++-------------------+      +-------------------+      +-----------------------+      +--------------------+
+|  Input Image      | ---> |  Naver Clova OCR  | ---> |  GPT-4 Prompt Engine  | ---> |  Executable Code   |
+| (Handwritten Code)|      | (Text Extraction) |      | (Context Correction)  |      |  (Python Syntax)   |
++-------------------+      +-------------------+      +-----------------------+      +--------------------+
+```
+
+
